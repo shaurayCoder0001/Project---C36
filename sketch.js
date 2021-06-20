@@ -73,7 +73,7 @@ function feedDog(){
   foodObj.updateFoodStock(food_stock_val*0);
  }else{
   foodObj.updateFoodStock(food_stock_val-1)
-  feedTime: hour()
+  FeedTime: hour()
 }
 
   
